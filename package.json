@@ -1,9 +1,10 @@
 {
-  "name": "test",
-  "version": "2.34.1",
+  "name": "maestro",
+  "version": "1.0.0",
   "description": "tested",
-  "main": "testproject",
+  "main": "index.js",
   "type":"module",
+
   "scripts": {
     "test": "test"
   },
@@ -14,8 +15,8 @@
   "keywords": [
     "test"
   ],
-  "author": "latnikov",
-  "license": "UNLICENSED",
+  "author": "mAESTr05",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/mAESTr05/environment-git/issues"
   },
