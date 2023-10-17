@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "2.34.1",
+  "description": "tested",
+  "main": "testproject",
+  "type":"module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mAESTr05/environment-git.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "latnikov",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mAESTr05/environment-git/issues"
+  },
+  "homepage": "https://github.com/mAESTr05/environment-git#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
